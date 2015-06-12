@@ -1,0 +1,1 @@
+/home/guivi/Projects/StereoVision-ADCensus-master/PictureOverlay/build/CMakeFiles/PictureOverlay.dir

@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+88e02b9d7edef0e0983589923372d720 src/moc_OpenCVBMWindow.cxx
+1d5c31f790e3bf97d2c2eaca923f065e src/moc_blockmatching.cxx
+787da2b87559ff89697dc9a732b87054 src/moc_blockmatchingimage.cxx
+ac95e3d7b5dd709407dbaafbcf4ad0ac src/moc_sgblockmatching.cxx
+418ed07f0474af116ba2f459173108cf ui_OpenCVBMWindow.h
+338c79fc7650f14c949284e4084591ee ui_blockmatchingimage.h

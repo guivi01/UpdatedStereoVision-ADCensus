@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<imagelist>
+Path_to_your_Images/Image_1_right_camera.jpg 
+Path_to_your_Images/Image_2_right_camera.jpg 
+Path_to_your_Images/Image_3_right_camera.jpg .. and so on ...
+</imagelist>
+</opencv_storage>
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guivi/Projects/StereoVision-ADCensus-master/ImageRectify/src/main.cpp
+rectify.h
+/home/guivi/Projects/StereoVision-ADCensus-master/ImageRectify/src/rectify.h
+boost/filesystem.hpp
+-
+string
+-
+
+/home/guivi/Projects/StereoVision-ADCensus-master/ImageRectify/src/rectify.h
+iostream
+-
+opencv2/core/core.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/calib3d/calib3d.hpp
+-
+libconfig.h++
+-
+

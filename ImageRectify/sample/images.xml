@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<imagelist>
+Path_to_your_images/Image_1_left_camera.jpg !!!Please note the hint in the "config.cfg"!!!
+Path_to_your_images/Image_1_right_camera.jpg 
+Path_to_your_images/Image_2_left_camera.jpg 
+Path_to_your_images/Image_2_right_camera.jpg .. and so on ...
+</imagelist>
+</opencv_storage>
+

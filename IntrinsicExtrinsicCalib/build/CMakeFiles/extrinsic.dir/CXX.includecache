@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guivi/Projects/StereoVision-ADCensus-master/IntrinsicExtrinsicCalib/paramcombination.cpp
+paramcombination.h
+/home/guivi/Projects/StereoVision-ADCensus-master/IntrinsicExtrinsicCalib/paramcombination.h
+opencv2/calib3d/calib3d.hpp
+-
+iostream
+-
+sstream
+-
+fstream
+-
+
+/home/guivi/Projects/StereoVision-ADCensus-master/IntrinsicExtrinsicCalib/paramcombination.h
+vector
+-
+string
+-
+

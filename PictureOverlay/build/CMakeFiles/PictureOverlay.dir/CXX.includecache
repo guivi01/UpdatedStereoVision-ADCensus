@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guivi/Projects/StereoVision-ADCensus-master/PictureOverlay/src/PictureOverlay.cpp
+opencv2/highgui/highgui.hpp
+/home/guivi/Projects/StereoVision-ADCensus-master/PictureOverlay/src/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/guivi/Projects/StereoVision-ADCensus-master/PictureOverlay/src/opencv2/imgproc/imgproc.hpp
+iostream
+-
+sstream
+-
+stdio.h
+-
+stdlib.h
+-
+
